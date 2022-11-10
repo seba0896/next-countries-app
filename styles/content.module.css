@@ -1,0 +1,34 @@
+.content{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: cornflowerblue; */
+}
+
+.card{
+    width: 24rem;
+    border-radius: .2rem;
+    margin: 1rem;
+    background-color: white;
+
+}
+
+.img{
+    width: 100%;
+    height: 50%;
+}
+
+.body{
+    padding: 1rem;
+}
+
+.body p {
+    line-height: 2rem;
+}
+
+.body span{
+    font-weight: bold;
+}

@@ -1,0 +1,29 @@
+
+.card{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding: 4rem;
+}
+
+.img{
+    width: 80%;
+    height: 50%;
+}
+
+.body{
+    padding: 1rem;
+}
+
+.body p {
+    line-height: 2rem;
+}
+
+.body span{
+    font-weight: bold;
+}
